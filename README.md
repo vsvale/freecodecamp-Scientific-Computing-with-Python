@@ -11,7 +11,7 @@ Python for everybody is a free video course series that teaches the basics of us
 
 The courses were created by Dr. Charles Severance (also known as Dr. Chuck). He is a Clinical Professor at the University of Michigan School of Information, where he teaches various technology-oriented courses including programming, database design, and web development.
 
-- [ ] Introduction: Why Program?
+- [x] Introduction: Why Program?
 - [ ] Introduction: Hardware Architecture
 - [ ] Introduction: Python as a Language
 - [ ] Introduction: Elements of Python
